@@ -1,13 +1,19 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Namindu+Dinu;Software+Engineering+Student;Aspiring+Full-Stack+Developer)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Namindu+Dinu;Software+Engineering+Student;Aspiring+Full-Stack+Developer;💻+Crafting+Digital+Experiences)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namindu-dinu&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Currently-Learning%20Python-yellow?style=for-the-badge&logo=python" alt="Learning" />
-  <img src="https://img.shields.io/badge/Next-Full--Stack%20Development-brightgreen?style=for-the-badge" alt="Next Goal" />
+  <img src="https://komarev.com/ghpvc/?username=namindu-dinu&label=Profile%20views&color=blueviolet&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Currently-Learning%20Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1b27" alt="Learning" />
+  <img src="https://img.shields.io/badge/Next-Full--Stack%20Development-00D9FF?style=for-the-badge&labelColor=1a1b27&logoColor=white" alt="Next Goal" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Welcome+to+my+Digital+Space!+🚀;Let's+Build+Something+Amazing!+✨" />
 </div>
 
 ---
@@ -149,11 +155,11 @@ flowchart TD
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=61dafb&center=true&vCenter=true&width=700&lines=full-stack+mastery!;Building+tomorrow's+web+solutions+today;Ready+to+create+ANY+website+imaginable!;Let's+code+the+future+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Mastery!;✨+Building+Tomorrow's+Web+Solutions+Today;💡+Ready+to+Create+ANY+Website+Imaginable!;🤝+Let's+Code+the+Future+Together!" />
 </div>
 
-**<div align="center">⭐ From [namindu-dinu](https://github.com/namindu-dinu) | Journey from Python to Full-Stack 🚀</div>**
+**<div align="center">⭐ From [namindu-dinu](https://github.com/namindu-dinu) | Journey to Full-Stack Developer 🚀</div>**
