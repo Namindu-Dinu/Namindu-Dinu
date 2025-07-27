@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Namindu+Dinu;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Python+%26+Web+Tech+Explorer)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Namindu+Dinu;Software+Engineering+Student;Aspiring+Full-Stack+Developer)</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0" width="100%"/>
@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=namindu-dinu&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/namindu-dinu?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Currently-Learning%20Python-yellow?style=for-the-badge&logo=python" alt="Learning" />
   <img src="https://img.shields.io/badge/Next-Full--Stack%20Development-brightgreen?style=for-the-badge" alt="Next Goal" />
 </div>
@@ -45,7 +44,7 @@
   <img src="https://img.shields.io/badge/Python%20Basics-In%20Progress-yellow?style=for-the-badge&logo=python" />
 </p>
 
-### **Next: Full-Stack Technologies **
+### **Next: Full-Stack Technologies**
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,webpack" />
 </p>
@@ -53,7 +52,6 @@
 ### **Future Learning Path**
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,express,docker" />
-  <img src="https://img.shields.io/badge/Web3-Coming%20Soon-9cf?style=for-the-badge&logo=ethereum" />
 </p>
 
 ### **Tools & Design**
@@ -65,27 +63,27 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Learning Roadmap 2024**
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Learning Roadmap 2025**
 
 ```mermaid
 flowchart TD
-    A[🐍 Python Basics] --> B[📚  Full-Stack Web Development]
+    B[📚 Full-Stack Web Development]
     B --> C[⚛️ React Mastery]
     B --> D[🔧 Node.js Backend]
     B --> E[📱 Modern JavaScript]
     C --> F[🌐 Full-Stack Projects]
     D --> F
     E --> F
-    F --> G[🚀 Web3 Development]
+    F --> G[🚀 Professional Development]
     F --> H[💼 Business Solutions]
     
-    style A fill:#4ecdc4,color:#fff
+    
     style B fill:#45b7d1,color:#fff
     style C fill:#61dafb,color:#000
     style D fill:#68a063,color:#fff
     style E fill:#f7df1e,color:#000
     style F fill:#96ceb4,color:#fff
-    style G fill:#627eea,color:#fff
+    style G fill:#ff6b6b,color:#fff
     style H fill:#feca57,color:#000
 ```
 
@@ -102,37 +100,13 @@ flowchart TD
 | **Build React Frontend Projects** | ⏳ Planned |
 | **Master Node.js Backend** | ⏳ Planned | 
 | **Learn Professional Best Practices** | ⏳ Planned |
-| **Develop Web3 Applications** | ⏳ Future | 
+| **Advanced JavaScript & TypeScript** | ⏳ Future | 
 | **Create Business-Ready Solutions** | ⏳ Future | 
 
 </div>
 
----
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **Course Curriculum Preview**
 
-<details>
-<summary><b>🎓 Udemy Full-Stack Development Course</b></summary>
-
-### **Frontend Mastery**
-- ⚛️ **React Development** - Component-based architecture
-- 🎨 **Modern JavaScript** - ES6+ features and best practices
-- 📱 **Responsive Design** - Mobile-first approach
-- 🛠️ **Development Tools** - Professional workflow setup
-
-### **Backend Excellence**
-- 🔧 **Node.js** - Server-side JavaScript mastery
-- 🗄️ **Database Integration** - MongoDB and SQL databases
-- 🔐 **Authentication & Security** - User management systems
-- 📡 **API Development** - RESTful services and GraphQL
-
-### **Advanced Topics**
-- 🌐 **Web3 Development** - Blockchain and DApps
-- ☁️ **Deployment Strategies** - Cloud platforms and DevOps
-- 🧪 **Testing & Debugging** - Quality assurance practices
-- 📈 **Performance Optimization** - Speed and scalability
-
-</details>
 
 ---
 
@@ -157,21 +131,7 @@ flowchart TD
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> **2025 Learning Milestones**
 
-<div align="center">
-
-```text
-📚 Python Basics Course           ████████░░ 80% Complete
-🎓 Udemy Full-Stack Prep          ██░░░░░░░░ 20% Complete
-⚛️ React Frontend Skills          ░░░░░░░░░░  0% Complete
-🔧 Node.js Backend Skills         ░░░░░░░░░░  0% Complete
-🌐 Web3 Development               ░░░░░░░░░░  0% Complete
-```
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Build Together**
 
@@ -184,15 +144,7 @@ flowchart TD
 
 </div>
 
-<div align="center">
 
-**💡 Open to collaborations on:**
-- 🌐 Full-Stack Web Projects
-- 🐍 Python Learning Projects  
-- 🎯 University Assignment Help
-- 🚀 Startup Ideas & MVPs
-
-</div>
 
 ---
 
@@ -201,7 +153,7 @@ flowchart TD
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=61dafb&center=true&vCenter=true&width=700&lines=From+Python+basics+to+full-stack+mastery!;Building+tomorrow's+web+solutions+today;Ready+to+create+ANY+website+imaginable!;Let's+code+the+future+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=61dafb&center=true&vCenter=true&width=700&lines=full-stack+mastery!;Building+tomorrow's+web+solutions+today;Ready+to+create+ANY+website+imaginable!;Let's+code+the+future+together!" />
 </div>
 
 **<div align="center">⭐ From [namindu-dinu](https://github.com/namindu-dinu) | Journey from Python to Full-Stack 🚀</div>**
